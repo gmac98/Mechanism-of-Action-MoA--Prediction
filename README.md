@@ -25,12 +25,18 @@ Libraries:
 We expect to be working using Python. The following libraries will have to be / are expected
 to be utilized –
 -- numPy
+
 -- Pandas
+
 -- Keras
+
 -- TensorFlow
+
 -- sklearn
+
 -- matplotlib
 
 Dataset:
+
 We will be using the MoA dataset from Kaggle.
 https://www.kaggle.com/c/lish-moa/data
