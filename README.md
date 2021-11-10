@@ -10,10 +10,15 @@ Based on the MoA annotations, the accuracy of solutions will be evaluated on the
 
 Algorithms to be used:
 The models we plan to use include the following -
+
 --Multi Input ResNet Model
+
 --Logistic Regression
+
 --Neural Network
+
 --SVM
+
 --XGBoost
 
 Libraries:
