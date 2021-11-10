@@ -10,21 +10,21 @@ Based on the MoA annotations, the accuracy of solutions will be evaluated on the
 
 Algorithms to be used:
 The models we plan to use include the following -
- Multi Input ResNet Model
- Logistic Regression
- Neural Network
- SVM
- XGBoost
+--Multi Input ResNet Model
+--Logistic Regression
+--Neural Network
+--SVM
+--XGBoost
 
 Libraries:
 We expect to be working using Python. The following libraries will have to be / are expected
 to be utilized –
- numPy
- Pandas
- Keras
- TensorFlow
- sklearn
- matplotlib
+-- numPy
+-- Pandas
+-- Keras
+-- TensorFlow
+-- sklearn
+-- matplotlib
 
 Dataset:
 We will be using the MoA dataset from Kaggle.
