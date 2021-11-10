@@ -9,6 +9,7 @@ Outcome of the project:
 Based on the MoA annotations, the accuracy of solutions will be evaluated on the average value of the logarithmic loss function applied to each drug-MoA annotation pair. We will be minimizing this log-loss value by using various models. We also expect to do an initial Exploratory Data Analysis on the initial dataset to provide more insights into the data.
 
 Algorithms to be used:
+
 The models we plan to use include the following -
 
 --Multi Input ResNet Model
@@ -22,8 +23,10 @@ The models we plan to use include the following -
 --XGBoost
 
 Libraries:
+
 We expect to be working using Python. The following libraries will have to be / are expected
 to be utilized –
+
 -- numPy
 
 -- Pandas
